@@ -4,38 +4,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phạm Hoài Nam - Personal Website</title>
+    <title>Trang Hạnh Nhi - Personal Website</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
 </head>
 
 <body>
-
-    <header>
-
-
+     <header>
         <nav>
             <ul>
                 <li><a href="#home">Phạm Hoài Nam</a></li>
-                <li><a href="#about">Trang Hạnh NhiNhi</a></li>
+                <li><a href="#hanhnhi.html">Trang Hạnh NhiNhi</a></li>
                 <li><a href="#skills">Nguyẽn ĐỖ Hoàng Nhẩt linh</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
-                <li><a href="hanhnhi.html">Trăng Hành Nhi</a></li>
-                <li><a href="quanly.html">Nguyễn Đỗ Hoàng Nhật Linh</a></li>
-                <li><a href="nam.html">Phạm Hoài Nam</a></li>
             </ul>
         </nav>
-
-    </header>
-
+    </header> 
 
     <section id="home" class="hero">
         <div class="container">
             <img src="https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/473238005_1116079926672169_8660071272349098292_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEQpbBKCAJ10t_Q6jmnOHcTZBTeRa-Y_8hkFN5Fr5j_yFLXRc7kCJIZYn7qMbUPtv5TNDUoZJnI33qxUPf-ESmA&_nc_ohc=kMcFJNxoSy8Q7kNvgGtwnc6&_nc_oc=AdgVd1EXzeMHeMs3MgxlH7VHgE9JbNo3ar-eWVOvofHDZ81XKmjVGoykqTQ1e3f9WRU&_nc_zt=23&_nc_ht=scontent.fsgn1-1.fna&_nc_gid=AmVGlfCnc3AxFP4QF-gJ-QN&oh=00_AYD23mzGpg8MfsItUPw1_t5dJNjoaPX55qa6lAUeRUhESA&oe=67CDD318"
                 alt="Profile Photo" class="profile-photo">
-            <h1>Phạm Hoài Nam</h1>
+            <h1>Trang Hạnh Nhi</h1>
             <p class="tagline">Web Developer | Software Engineer</p>
             <div class="social-links">
                 <a href="#"><i class="fab fa-github"></i></a>
@@ -79,7 +71,7 @@
             <div class="projects-grid">
                 <div class="project-card">
                     <img src="project1.jpg" alt="Project 1">
-<h3>Project Title</h3>
+                    <h3>Project Title</h3>
                     <p>Project description goes here...</p>
                     <a href="#" class="button">View Project</a>
                 </div>
@@ -101,7 +93,7 @@
 
     <footer>
         <div class="container">
-            <p>&copy; 2025 Phạm Hoài Nam. All rights reserved.</p>
+            <p>&copy; 2025 Trang Hạnh Nhi. All rights reserved.</p>
         </div>
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
